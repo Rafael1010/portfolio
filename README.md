@@ -1,2 +1,2 @@
-# http://rafael_santos.github.io
+# http://rafael_santos.github.io/portfolio
 Meu portfolio!
